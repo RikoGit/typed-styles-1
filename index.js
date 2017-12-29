@@ -1,1 +1,2 @@
-console.log('hello from Node.js');
+// "use strict";
+// console.log('hello from RikGit!')
